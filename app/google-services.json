@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "893176544186",
+    "project_id": "addandroidapp-bc224",
+    "storage_bucket": "addandroidapp-bc224.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:893176544186:android:aa7f4965beb43d38e6bb83",
+        "android_client_info": {
+          "package_name": "com.example.advancedfeaturesapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdfa5eWGzkptndUU0tOuemctgGGC2JCjE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
